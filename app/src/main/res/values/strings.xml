@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_text">Akiko Fujita</string>
+    <string name="title_text">Android Engineer</string>
+    <string name="tel_text">000-1234-5678</string>
+    <string name="share_acount_text">\@AndroidDev</string>
+    <string name="mail_text">test@gmail.com</string>
+</resources>
